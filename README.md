@@ -17,7 +17,7 @@ Have fun,
 
 San Anton [via terminal ssh]
 PS: All open code, and spare my intellect from wasting time with writing disclaimers, infringements etc.
-Fact is, it is provided as is with no liability attach other than didactic.
+Fact is, it is provided as is with no liability attached other than didactic.
 
 More when it comes as it comes:
 © San Anton™ [t] AHR: in pretio procedere doctrina speramus
