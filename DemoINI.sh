@@ -198,13 +198,15 @@ about_this () {
      ## move files where they belong
      mv "${DMMrot}/mm_app.sh" "${DMMapp}";  # mm_app.sh
      mv "${DMMrot}/ChineseQ.ahr" "${DMMtxt}"; # ChineseQ.ahr
+     mv "${DMMrot}/funcLib.sh" "${DMMwrk}/funcLib.sh"; # funcLib.sh
      
      # copy components to backup
      cp "${DMMapp}" "${DMMbkp}/mm_app.sh";
      cp "${DMMtxt}" "${DMMbkp}/ChineseQ.ahr";
      cp "${DMMstart}" "${DMMbkp}/app_start.sh";
      cp "${DMMrot}/DemoINI.sh" "${DMMbkp}/DemoINI.sh";
-     cp "${DMMini}" "${DMMbkp}/ini_Demo.ahr"
+     cp "${DMMini}" "${DMMbkp}/ini_Demo.ahr";
+     cp "${DMMwrk}/funcLib.sh" "${DMMbkp}/funcLib.sh";
      rm "${DMMrot}/DemoINI.sh";
      chmod +x "${DMMapp}";
      chmod +x "${DMMstart}";
