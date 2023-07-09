@@ -11,6 +11,8 @@ Composition:
 
 Process: [all confined to a folder]
 
+A more elaborate version can be found here: https://github.com/ahrink/Project-for-Linux-scripting
+
 Once the app is initialized is expecting the user to enjoy a variety of shell sh programing mostly focused on Dialog usage. However, the working-code includes examples that many coders have a hard time understanding. As a result, a secondary thought is implied eg didactic.
 
 Have fun,
